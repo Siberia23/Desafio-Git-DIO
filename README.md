@@ -1,2 +1,2 @@
 # Desafio-Git-DIO
-Desafios DIO
+Repositório de Desafios DIO sobre Git 
