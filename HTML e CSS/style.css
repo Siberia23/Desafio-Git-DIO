@@ -1,0 +1,90 @@
+#title {
+  font-size: 45px;
+  padding-bottom: 15px;
+  color: purple;
+  text-transform: uppercase;
+  text-decoration: underline;
+  font-weight: bold;
+  text-align: center;
+}
+
+.image_top {
+  margin: 0;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  width: 100%;
+}
+
+.post_image {
+  margin-left: 30%;
+  margin-bottom: 15px;
+  border-radius: 30%;
+  width: 30%;
+}
+
+body {
+  background: lightgray;
+  color: brown;
+}
+
+.post_title {
+  font-size: 16px;
+  font-style: italic;
+  color: brown;
+  margin: 0;
+  margin-bottom: 15px;
+}
+
+.post {
+  background-image: linear-gradient(
+      rgba(0, 0, 255, 0.5),
+      rgba(255, 255, 0, 0.5));
+  padding: 15px;
+  border: 2px dotted brown;
+  border-left: 4px dashed brown;
+  margin: 15px;
+  border-radius: 10px;
+  color: brown;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: medium;
+  font-style: italic;
+  text-transform: capitalize;
+  padding-bottom: 15px;
+  width: 60%;
+}
+
+.post_2 {
+    background-image: linear-gradient(
+        blue, 
+        white);
+  padding: 15px;
+  border: 2px dotted brown;
+  border-left: 4px dashed brown;
+  margin: 15px;
+  border-radius: 10px;
+  color: brown;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: medium;
+  font-style: italic;
+  text-transform: capitalize;
+  padding-bottom: 15px;
+  width: 30%;
+  margin-left: 70%;
+}
+
+.post_content {
+  margin: 0;
+  margin-bottom: 15px;
+}
+
+.list_my {
+  padding-left: 15px;
+  list-style-type: upper-roman;
+  color: gray;
+}
+
+.teste{
+    display: flex;
+}

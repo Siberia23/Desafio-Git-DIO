@@ -16,8 +16,10 @@ Repositório de Desafios DIO sobre Git :100:
 
 * Os atalhos códigos apresentados foram úteis?
 
-- [x] sim
+- [ ] sim
 - [ ] não
+
+
 
 
 
